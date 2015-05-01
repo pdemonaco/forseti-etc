@@ -1,0 +1,10 @@
+dev-vcs/subversion -dso
+sys-boot/grub:2 libzfs
+app-text/ghostscript-gpl cups
+x11-libs/cairo X
+sys-fs/zfs kernel-builtin
+net-dns/bind dlz
+dev-libs/openssl -bindist
+net-misc/openssh -bindist
+net-analyzer/munin doc cgi apache syslog dhcpd http ipmi irc
+dev-libs/libpfm static-libs

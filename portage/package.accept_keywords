@@ -1,0 +1,13 @@
+sys-kernel/spl ~amd64
+sys-fs/zfs-kmod ~amd64
+sys-fs/zfs ~amd64
+sys-boot/grub:2 ~amd64
+sys-process/nmon ~amd64
+sys-apps/mtree ~amd64
+sys-kernel/dracut ~amd64
+=dev-java/oracle-jdk-bin-1.7.0.67:1.7 ~amd64
+sys-process/ftop ~amd64
+sys-process/glances ~amd64
+dev-python/psutil ~amd64
+dev-libs/papi ~amd64
+dev-libs/libpfm ~amd64

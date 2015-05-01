@@ -1,0 +1,5 @@
+dns_domain_lo="demona.co"
+#config_enp6s0="192.168.64.45 netmask 255.255.255.0 brd 192.168.64.255"
+#routes_enp6s0="default via 192.168.64.1"
+config_enp6s0="172.24.142.2 netmask 255.255.255.0 brd 172.24.142.255"
+routes_enp6s0="default via 172.24.142.1"
